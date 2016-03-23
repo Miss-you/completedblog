@@ -13,3 +13,6 @@ http://blog.csdn.net/qq_15437667?viewmode=contents
 QQ:794089112
 
 邮箱由于加入golang列表，已经炸了-  -|||
+
+
+已经完成的博客文件先放在主目录下了，TODOblog目录下是正在书写的博客。。。
