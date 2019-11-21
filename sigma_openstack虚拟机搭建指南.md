@@ -1,5 +1,6 @@
 #sigma openstack虚拟机搭建指南
 
+
 > 主要内容是从sigma已有的openstack及已有的img镜像，到搭建一个可以成功运行的GW虚拟机
 
 目录
